@@ -77,5 +77,6 @@ Ehist = list(chain.from_iterable(repeat(j, times = i) for i, j in zip(F_s, E_s))
 ```
 
 ## Citation
-When using please cite our paper  (pre-proof available now): \
-G. Marchiy, D. Samsonov, and E. Mukhin, “Spectral model for grain boundary segregation in systems with strong solute-solute interactions,” Acta Materialia, May 2025, doi: 10.1016/j.actamat.2025.121044.
+When using please cite our paper: \
+G. Marchiy, D. Samsonov, and E. Mukhin, “Spectral model for grain boundary segregation in systems with strong solute–solute interactions,” Acta Materialia, vol. 294, p. 121044, Aug. 2025, doi: 10.1016/j.actamat.2025.121044.
+
